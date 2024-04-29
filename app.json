@@ -3,6 +3,8 @@
     "name": "router-demo",
     "slug": "router-demo",
     "version": "1.0.0",
+    "main": "expo-router/entry",
+    "scheme": "expo-route-demo",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
