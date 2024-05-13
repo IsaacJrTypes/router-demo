@@ -27,5 +27,13 @@ export const styles = StyleSheet.create({
     testing: {
         backgroundColor:"orange",
         minHeight:200
+    },
+    row: {
+        flexDirection:"row",
+        justifyContent:"space-around"
+    },
+    img: {
+        width: 100,
+        minHeight: 100
     }
 });
